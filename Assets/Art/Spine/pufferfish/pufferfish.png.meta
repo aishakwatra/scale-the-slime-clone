@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 3034b6a4c903c7647b882bf66f276789
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4866182238925101983
+    second: pufferfish_0
+  - first:
+      213: 8803265962223346870
+    second: pufferfish_1
+  - first:
+      213: 1032957558155861299
+    second: pufferfish_2
+  - first:
+      213: 8930515327730474423
+    second: pufferfish_3
+  - first:
+      213: -1122078613626686952
+    second: pufferfish_4
+  - first:
+      213: 3480796403963922842
+    second: pufferfish_5
+  - first:
+      213: -7870115966843896558
+    second: pufferfish_6
+  - first:
+      213: 7016691322689931428
+    second: pufferfish_7
+  - first:
+      213: 2523075273586339511
+    second: pufferfish_8
+  - first:
+      213: -2472497706310810922
+    second: pufferfish_9
+  - first:
+      213: -6054070442955945830
+    second: pufferfish_10
+  - first:
+      213: -754727674978320751
+    second: pufferfish_11
+  - first:
+      213: -5360769773545598562
+    second: pufferfish_12
+  - first:
+      213: -7341194040446858924
+    second: pufferfish_13
+  - first:
+      213: 6864779069416031694
+    second: pufferfish_14
+  - first:
+      213: -1576137683850428489
+    second: pufferfish_15
+  - first:
+      213: 7468332453752267077
+    second: pufferfish_16
+  - first:
+      213: -455831328370016088
+    second: pufferfish_17
+  - first:
+      213: 653094668663497050
+    second: pufferfish_18
+  - first:
+      213: 2945852089118518220
+    second: pufferfish_19
+  - first:
+      213: 2523067319607266210
+    second: pufferfish_20
+  - first:
+      213: 6105946676448353910
+    second: pufferfish_21
+  - first:
+      213: 9112694318339491490
+    second: pufferfish_22
+  - first:
+      213: 6189724962680324853
+    second: pufferfish_23
+  - first:
+      213: 8172448533231377024
+    second: pufferfish_24
+  - first:
+      213: -3191279517386945268
+    second: pufferfish_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pufferfish_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 61
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b1273d6f6288340800000000000000
+      internalID: 4866182238925101983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pufferfish_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 61
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b42c9d30cb7b2a70800000000000000
+      internalID: 8803265962223346870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pufferfish_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 61
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d5fe12d6dc55e00800000000000000
+      internalID: 1032957558155861299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pufferfish_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 61
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd5e8aef509feb70800000000000000
+      internalID: 8930515327730474423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pufferfish_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 61
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812f7b822739d60f0800000000000000
+      internalID: -1122078613626686952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pufferfish_5
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 61
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a990ab923e54e4030800000000000000
+      internalID: 3480796403963922842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pufferfish_6
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 61
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21db32fc93bb7c290800000000000000
+      internalID: -7870115966843896558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pufferfish_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 61
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8cf7bf49b406160800000000000000
+      internalID: 7016691322689931428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pufferfish_8
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 71
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be6fafe793c30320800000000000000
+      internalID: 2523075273586339511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pufferfish_9
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 61
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2406b9f6cefadd0800000000000000
+      internalID: -2472497706310810922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pufferfish_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 67
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a984b6a020f9bfba0800000000000000
+      internalID: -6054070442955945830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pufferfish_11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 61
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19eb2c6ad2ba685f0800000000000000
+      internalID: -754727674978320751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pufferfish_12
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 61
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91d9252b48ba95b0800000000000000
+      internalID: -5360769773545598562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pufferfish_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 61
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45943ff5ae6de1a90800000000000000
+      internalID: -7341194040446858924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pufferfish_14
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 61
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec544164138944f50800000000000000
+      internalID: 6864779069416031694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pufferfish_15
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 61
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bffcf4902f602ae0800000000000000
+      internalID: -1576137683850428489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pufferfish_16
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 63
+        width: 141
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541ec6a3cc8d4a760800000000000000
+      internalID: 7468332453752267077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pufferfish_17
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 63
+        width: 166
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0c20b62df8ca9f0800000000000000
+      internalID: -455831328370016088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pufferfish_18
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 64
+        width: 281
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51a3621422401900800000000000000
+      internalID: 653094668663497050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pufferfish_19
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 69
+        width: 143
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb60c40ed4c1e820800000000000000
+      internalID: 2945852089118518220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pufferfish_20
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 65
+        width: 172
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab86910c5cb30320800000000000000
+      internalID: 2523067319607266210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pufferfish_21
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 61
+        width: 293
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e5e2bc62eacb450800000000000000
+      internalID: 6105946676448353910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pufferfish_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 61
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6885f833bc67e70800000000000000
+      internalID: 9112694318339491490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pufferfish_23
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 61
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2cde91f0256e550800000000000000
+      internalID: 6189724962680324853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pufferfish_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 61
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a1b6834ae5a6170800000000000000
+      internalID: 8172448533231377024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pufferfish_25
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 61
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dcb23ef2c46b3d0800000000000000
+      internalID: -3191279517386945268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pufferfish_0: 4866182238925101983
+      pufferfish_1: 8803265962223346870
+      pufferfish_10: -6054070442955945830
+      pufferfish_11: -754727674978320751
+      pufferfish_12: -5360769773545598562
+      pufferfish_13: -7341194040446858924
+      pufferfish_14: 6864779069416031694
+      pufferfish_15: -1576137683850428489
+      pufferfish_16: 7468332453752267077
+      pufferfish_17: -455831328370016088
+      pufferfish_18: 653094668663497050
+      pufferfish_19: 2945852089118518220
+      pufferfish_2: 1032957558155861299
+      pufferfish_20: 2523067319607266210
+      pufferfish_21: 6105946676448353910
+      pufferfish_22: 9112694318339491490
+      pufferfish_23: 6189724962680324853
+      pufferfish_24: 8172448533231377024
+      pufferfish_25: -3191279517386945268
+      pufferfish_3: 8930515327730474423
+      pufferfish_4: -1122078613626686952
+      pufferfish_5: 3480796403963922842
+      pufferfish_6: -7870115966843896558
+      pufferfish_7: 7016691322689931428
+      pufferfish_8: 2523075273586339511
+      pufferfish_9: -2472497706310810922
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

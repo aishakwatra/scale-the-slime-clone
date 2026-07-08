@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: 216b0e9f11142c2479004cb9a597b95f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -240264394367855916
+    second: troop_mage_0
+  - first:
+      213: -5315119175006877822
+    second: troop_mage_1
+  - first:
+      213: -1194692732288025406
+    second: troop_mage_2
+  - first:
+      213: -7989140406105554932
+    second: troop_mage_3
+  - first:
+      213: -6220269344295964242
+    second: troop_mage_4
+  - first:
+      213: 4674885002178558570
+    second: troop_mage_5
+  - first:
+      213: -6982479368441680576
+    second: troop_mage_6
+  - first:
+      213: 3913557588328965371
+    second: troop_mage_7
+  - first:
+      213: 208227219429885771
+    second: troop_mage_8
+  - first:
+      213: 2256473869204030372
+    second: troop_mage_9
+  - first:
+      213: -1883942402157965602
+    second: troop_mage_10
+  - first:
+      213: 716419156451590714
+    second: troop_mage_11
+  - first:
+      213: 4039697040684078117
+    second: troop_mage_12
+  - first:
+      213: 7687293922873343835
+    second: troop_mage_13
+  - first:
+      213: 5091187057799373718
+    second: troop_mage_14
+  - first:
+      213: 2767781380995219522
+    second: troop_mage_15
+  - first:
+      213: 5043593141246702660
+    second: troop_mage_16
+  - first:
+      213: 7064525641517572392
+    second: troop_mage_17
+  - first:
+      213: -399132222887087881
+    second: troop_mage_18
+  - first:
+      213: 3978585029773687448
+    second: troop_mage_19
+  - first:
+      213: 1496714804780830897
+    second: troop_mage_20
+  - first:
+      213: 6470708786634747605
+    second: troop_mage_21
+  - first:
+      213: 5209459928517840063
+    second: troop_mage_22
+  - first:
+      213: 1878697843968888100
+    second: troop_mage_23
+  - first:
+      213: -1041709190484861813
+    second: troop_mage_24
+  - first:
+      213: 1124487921636522806
+    second: troop_mage_25
+  - first:
+      213: -6125539999111934060
+    second: troop_mage_26
+  - first:
+      213: 8253835221742793922
+    second: troop_mage_27
+  - first:
+      213: -2803660298812062040
+    second: troop_mage_28
+  - first:
+      213: 6885032629978070942
+    second: troop_mage_29
+  - first:
+      213: 8669407613591248986
+    second: troop_mage_30
+  - first:
+      213: -7935089206122482271
+    second: troop_mage_31
+  - first:
+      213: -3970584090526607804
+    second: troop_mage_32
+  - first:
+      213: -39957844359419107
+    second: troop_mage_33
+  - first:
+      213: 2263580471390902211
+    second: troop_mage_34
+  - first:
+      213: 4932174843392130232
+    second: troop_mage_35
+  - first:
+      213: 921501148153911124
+    second: troop_mage_36
+  - first:
+      213: -828690178871050602
+    second: troop_mage_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: troop_mage_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 8
+        width: 337
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d297896ec86aacf0800000000000000
+      internalID: -240264394367855916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_1
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 93
+        width: 209
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28709d26547ec36b0800000000000000
+      internalID: -5315119175006877822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_2
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 93
+        width: 201
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc3b3c2a499b6fe0800000000000000
+      internalID: -1194692732288025406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_3
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 235
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00cb51012fd02190800000000000000
+      internalID: -7989140406105554932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_4
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 235
+        width: 41
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1bcfddcf92da9a0800000000000000
+      internalID: -6220269344295964242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_5
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 235
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a77a0142780e040800000000000000
+      internalID: 4674885002178558570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_6
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 182
+        width: 217
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d2a885200491f90800000000000000
+      internalID: -6982479368441680576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_7
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 181
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4e16444efbf4630800000000000000
+      internalID: 3913557588328965371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_8
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 182
+        width: 92
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b478fa68d85c3e200800000000000000
+      internalID: 208227219429885771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_9
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 96
+        width: 121
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a38bda570b905f10800000000000000
+      internalID: 2256473869204030372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_10
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 184
+        width: 190
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede0416ed54ead5e0800000000000000
+      internalID: -1883942402157965602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_11
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 91
+        width: 186
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3205925d6b31f900800000000000000
+      internalID: 716419156451590714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_12
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 134
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524db262e03ef0830800000000000000
+      internalID: 4039697040684078117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_13
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 134
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f72e40811ceaa60800000000000000
+      internalID: 7687293922873343835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_14
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 134
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693a231a7a787a640800000000000000
+      internalID: 5091187057799373718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_15
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 118
+        width: 102
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240092e6082296620800000000000000
+      internalID: 2767781380995219522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_16
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 87
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4443b976d317ef540800000000000000
+      internalID: 5043593141246702660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_17
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 74
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8212b4934ac3a0260800000000000000
+      internalID: 7064525641517572392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_18
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 74
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f03764ab5ff57af0800000000000000
+      internalID: -399132222887087881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_19
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 83
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89af8505106c63730800000000000000
+      internalID: 3978585029773687448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_20
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 79
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0970d5f2665c410800000000000000
+      internalID: 1496714804780830897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_21
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 52
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5deec50bb539cc950800000000000000
+      internalID: 6470708786634747605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_22
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 52
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc00fe3438bb4840800000000000000
+      internalID: 5209459928517840063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_23
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 52
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dce0e3cb9721a10800000000000000
+      internalID: 1878697843968888100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_24
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 55
+        width: 200
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cd3eda20b1b81f0800000000000000
+      internalID: -1041709190484861813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_25
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 5
+        width: 75
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bbc539ecbfa9f00800000000000000
+      internalID: 1124487921636522806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_26
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 35
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f8c7743d5bdfaa0800000000000000
+      internalID: -6125539999111934060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_27
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 37
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4369a47638b8270800000000000000
+      internalID: 8253835221742793922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_28
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 9
+        width: 144
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6017a00d56719d0800000000000000
+      internalID: -2803660298812062040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_29
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 29
+        width: 60
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ff0d0d2bc8c8f50800000000000000
+      internalID: 6885032629978070942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_30
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 5
+        width: 126
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a506c25ca4cef4870800000000000000
+      internalID: 8669407613591248986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_31
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 5
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a57800b866e0e190800000000000000
+      internalID: -7935089206122482271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_32
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 5
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44618558ec6a5e8c0800000000000000
+      internalID: -3970584090526607804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_33
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 5
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b67f06d8a027ff0800000000000000
+      internalID: -39957844359419107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_34
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 11
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c714cd127ad96f10800000000000000
+      internalID: 2263580471390902211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_35
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 5
+        width: 53
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc718663ea927440800000000000000
+      internalID: 4932174843392130232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_36
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 13
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45714d37964d9cc00800000000000000
+      internalID: 921501148153911124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_mage_37
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 5
+        width: 69
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e39834ca6ef74f0800000000000000
+      internalID: -828690178871050602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      troop_mage_0: -240264394367855916
+      troop_mage_1: -5315119175006877822
+      troop_mage_10: -1883942402157965602
+      troop_mage_11: 716419156451590714
+      troop_mage_12: 4039697040684078117
+      troop_mage_13: 7687293922873343835
+      troop_mage_14: 5091187057799373718
+      troop_mage_15: 2767781380995219522
+      troop_mage_16: 5043593141246702660
+      troop_mage_17: 7064525641517572392
+      troop_mage_18: -399132222887087881
+      troop_mage_19: 3978585029773687448
+      troop_mage_2: -1194692732288025406
+      troop_mage_20: 1496714804780830897
+      troop_mage_21: 6470708786634747605
+      troop_mage_22: 5209459928517840063
+      troop_mage_23: 1878697843968888100
+      troop_mage_24: -1041709190484861813
+      troop_mage_25: 1124487921636522806
+      troop_mage_26: -6125539999111934060
+      troop_mage_27: 8253835221742793922
+      troop_mage_28: -2803660298812062040
+      troop_mage_29: 6885032629978070942
+      troop_mage_3: -7989140406105554932
+      troop_mage_30: 8669407613591248986
+      troop_mage_31: -7935089206122482271
+      troop_mage_32: -3970584090526607804
+      troop_mage_33: -39957844359419107
+      troop_mage_34: 2263580471390902211
+      troop_mage_35: 4932174843392130232
+      troop_mage_36: 921501148153911124
+      troop_mage_37: -828690178871050602
+      troop_mage_4: -6220269344295964242
+      troop_mage_5: 4674885002178558570
+      troop_mage_6: -6982479368441680576
+      troop_mage_7: 3913557588328965371
+      troop_mage_8: 208227219429885771
+      troop_mage_9: 2256473869204030372
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

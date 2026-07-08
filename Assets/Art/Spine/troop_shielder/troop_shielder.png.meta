@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 39a3da7f49c9cb244818bd2ce58e7abd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 988741715574612138
+    second: troop_shielder_0
+  - first:
+      213: 8570464756941211836
+    second: troop_shielder_1
+  - first:
+      213: 2938704019722165743
+    second: troop_shielder_2
+  - first:
+      213: -7683636810013771220
+    second: troop_shielder_3
+  - first:
+      213: -8200627027778753345
+    second: troop_shielder_4
+  - first:
+      213: -2171451173229752736
+    second: troop_shielder_5
+  - first:
+      213: -7047428136757348975
+    second: troop_shielder_6
+  - first:
+      213: -8492786620495714799
+    second: troop_shielder_7
+  - first:
+      213: 8493636538945906019
+    second: troop_shielder_8
+  - first:
+      213: -1355190990385021129
+    second: troop_shielder_9
+  - first:
+      213: -3523000620003080095
+    second: troop_shielder_10
+  - first:
+      213: -216200055175125456
+    second: troop_shielder_11
+  - first:
+      213: -7578538007695007761
+    second: troop_shielder_12
+  - first:
+      213: -2924349273864111994
+    second: troop_shielder_13
+  - first:
+      213: -9143887862918732197
+    second: troop_shielder_14
+  - first:
+      213: -9190369736817048980
+    second: troop_shielder_15
+  - first:
+      213: 5119814069826253762
+    second: troop_shielder_16
+  - first:
+      213: -5799128692888453114
+    second: troop_shielder_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: troop_shielder_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 56
+        width: 205
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa06f6b0a57b8bd00800000000000000
+      internalID: 988741715574612138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_shielder_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 75
+        width: 241
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb84c75c94860f670800000000000000
+      internalID: 8570464756941211836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_shielder_2
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 14
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed5d8b6cbf58c820800000000000000
+      internalID: 2938704019722165743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_shielder_3
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 17
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a730ce70d3e5590800000000000000
+      internalID: -7683636810013771220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_shielder_4
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 14
+        width: 254
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbca7c1ca25813e80800000000000000
+      internalID: -8200627027778753345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_shielder_5
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 14
+        width: 150
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e098ca9a47dd1e0800000000000000
+      internalID: -2171451173229752736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_shielder_6
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 14
+        width: 197
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1953c70d271823e90800000000000000
+      internalID: -7047428136757348975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_shielder_7
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 14
+        width: 203
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116a92cb09f832a80800000000000000
+      internalID: -8492786620495714799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_shielder_8
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 17
+        width: 148
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36526235e657fd570800000000000000
+      internalID: 8493636538945906019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_shielder_9
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 14
+        width: 184
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f7a4f69f4613de0800000000000000
+      internalID: -1355190990385021129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_shielder_10
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 14
+        width: 214
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1684c3d0a99cb1fc0800000000000000
+      internalID: -3523000620003080095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_shielder_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 14
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036eddef137effcf0800000000000000
+      internalID: -216200055175125456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_shielder_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 14
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefda86b5df93d690800000000000000
+      internalID: -7578538007695007761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_shielder_13
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 14
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688782c44df9a67d0800000000000000
+      internalID: -2924349273864111994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_shielder_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 14
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5629b06f626a1180800000000000000
+      internalID: -9143887862918732197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_shielder_15
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 14
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c620582ca6f357080800000000000000
+      internalID: -9190369736817048980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_shielder_16
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 14
+        width: 72
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c37a0445cb3d0740800000000000000
+      internalID: 5119814069826253762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_shielder_17
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 14
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600cb9dcd2b558fa0800000000000000
+      internalID: -5799128692888453114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      troop_shielder_0: 988741715574612138
+      troop_shielder_1: 8570464756941211836
+      troop_shielder_10: -3523000620003080095
+      troop_shielder_11: -216200055175125456
+      troop_shielder_12: -7578538007695007761
+      troop_shielder_13: -2924349273864111994
+      troop_shielder_14: -9143887862918732197
+      troop_shielder_15: -9190369736817048980
+      troop_shielder_16: 5119814069826253762
+      troop_shielder_17: -5799128692888453114
+      troop_shielder_2: 2938704019722165743
+      troop_shielder_3: -7683636810013771220
+      troop_shielder_4: -8200627027778753345
+      troop_shielder_5: -2171451173229752736
+      troop_shielder_6: -7047428136757348975
+      troop_shielder_7: -8492786620495714799
+      troop_shielder_8: 8493636538945906019
+      troop_shielder_9: -1355190990385021129
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

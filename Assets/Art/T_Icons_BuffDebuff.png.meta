@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: baadce965712ba44bb58ae6bc6f1c36c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5438793590705595388
+    second: T_Icons_BuffDebuff_0
+  - first:
+      213: -2513348399751409095
+    second: T_Icons_BuffDebuff_1
+  - first:
+      213: 5093077224294721354
+    second: T_Icons_BuffDebuff_2
+  - first:
+      213: 4810346627950811772
+    second: T_Icons_BuffDebuff_3
+  - first:
+      213: 1416634843977251449
+    second: T_Icons_BuffDebuff_4
+  - first:
+      213: -5379215314323685206
+    second: T_Icons_BuffDebuff_5
+  - first:
+      213: 1268931147969525385
+    second: T_Icons_BuffDebuff_6
+  - first:
+      213: 3566086378034713466
+    second: T_Icons_BuffDebuff_7
+  - first:
+      213: 3898423095085216427
+    second: T_Icons_BuffDebuff_8
+  - first:
+      213: 4599547862033334634
+    second: T_Icons_BuffDebuff_9
+  - first:
+      213: 6234069672619056757
+    second: T_Icons_BuffDebuff_10
+  - first:
+      213: 4710887299797604315
+    second: T_Icons_BuffDebuff_11
+  - first:
+      213: -5999910184842976687
+    second: T_Icons_BuffDebuff_12
+  - first:
+      213: 7928553114217521215
+    second: T_Icons_BuffDebuff_13
+  - first:
+      213: 5514316422304917175
+    second: T_Icons_BuffDebuff_14
+  - first:
+      213: -379338273593076306
+    second: T_Icons_BuffDebuff_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: T_Icons_BuffDebuff_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 391
+        width: 125
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c52539b068584b0800000000000000
+      internalID: -5438793590705595388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Icons_BuffDebuff_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 395
+        width: 132
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932550c52face1dd0800000000000000
+      internalID: -2513348399751409095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Icons_BuffDebuff_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 254
+        width: 119
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4728bf40ce3ea640800000000000000
+      internalID: 5093077224294721354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Icons_BuffDebuff_3
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 254
+        width: 119
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a918595c8c1c240800000000000000
+      internalID: 4810346627950811772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Icons_BuffDebuff_4
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 382
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a74bb82e5e8a310800000000000000
+      internalID: 1416634843977251449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Icons_BuffDebuff_5
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 382
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa045630c203955b0800000000000000
+      internalID: -5379215314323685206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Icons_BuffDebuff_6
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 382
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986f62fe7262c9110800000000000000
+      internalID: 1268931147969525385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Icons_BuffDebuff_7
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 382
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a735e19baa84d7130800000000000000
+      internalID: 3566086378034713466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Icons_BuffDebuff_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 123
+        width: 119
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2bbb6762bf91630800000000000000
+      internalID: 3898423095085216427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Icons_BuffDebuff_9
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 254
+        width: 119
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6187eb3960e4df30800000000000000
+      internalID: 4599547862033334634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Icons_BuffDebuff_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 128
+        width: 260
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e9e75765dd38650800000000000000
+      internalID: 6234069672619056757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Icons_BuffDebuff_11
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 256
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7d5513a0f606140800000000000000
+      internalID: 4710887299797604315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Icons_BuffDebuff_12
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 255
+        width: 252
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152af2cc9790cbca0800000000000000
+      internalID: -5999910184842976687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Icons_BuffDebuff_13
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 257
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30a0c3dc01e70e60800000000000000
+      internalID: 7928553114217521215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Icons_BuffDebuff_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 133
+        width: 108
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6669ae199c68c40800000000000000
+      internalID: 5514316422304917175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Icons_BuffDebuff_15
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 144
+        width: 122
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea556c899d15cbaf0800000000000000
+      internalID: -379338273593076306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      T_Icons_BuffDebuff_0: -5438793590705595388
+      T_Icons_BuffDebuff_1: -2513348399751409095
+      T_Icons_BuffDebuff_10: 6234069672619056757
+      T_Icons_BuffDebuff_11: 4710887299797604315
+      T_Icons_BuffDebuff_12: -5999910184842976687
+      T_Icons_BuffDebuff_13: 7928553114217521215
+      T_Icons_BuffDebuff_14: 5514316422304917175
+      T_Icons_BuffDebuff_15: -379338273593076306
+      T_Icons_BuffDebuff_2: 5093077224294721354
+      T_Icons_BuffDebuff_3: 4810346627950811772
+      T_Icons_BuffDebuff_4: 1416634843977251449
+      T_Icons_BuffDebuff_5: -5379215314323685206
+      T_Icons_BuffDebuff_6: 1268931147969525385
+      T_Icons_BuffDebuff_7: 3566086378034713466
+      T_Icons_BuffDebuff_8: 3898423095085216427
+      T_Icons_BuffDebuff_9: 4599547862033334634
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

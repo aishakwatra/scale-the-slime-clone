@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 29ac0cfb56f400045b31c4135899ee1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7195734422812445844
+    second: troop_swordman_0
+  - first:
+      213: -507673854159373138
+    second: troop_swordman_1
+  - first:
+      213: 3988334198616064620
+    second: troop_swordman_2
+  - first:
+      213: -2950375887103577311
+    second: troop_swordman_3
+  - first:
+      213: 1733172906064649853
+    second: troop_swordman_4
+  - first:
+      213: -8249597618083666982
+    second: troop_swordman_5
+  - first:
+      213: 6085514672597552746
+    second: troop_swordman_6
+  - first:
+      213: -2679434177639090150
+    second: troop_swordman_7
+  - first:
+      213: 1489079371274502515
+    second: troop_swordman_8
+  - first:
+      213: 170037369342068946
+    second: troop_swordman_9
+  - first:
+      213: -1043111218515409371
+    second: troop_swordman_10
+  - first:
+      213: 8820885245461099728
+    second: troop_swordman_11
+  - first:
+      213: 708786300628374291
+    second: troop_swordman_12
+  - first:
+      213: -3926754983397435005
+    second: troop_swordman_13
+  - first:
+      213: -698300022447529981
+    second: troop_swordman_14
+  - first:
+      213: 1254937613115907437
+    second: troop_swordman_15
+  - first:
+      213: -901468672454846901
+    second: troop_swordman_16
+  - first:
+      213: 145813484002080468
+    second: troop_swordman_17
+  - first:
+      213: -993137940337275221
+    second: troop_swordman_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: troop_swordman_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63b636caad932c90800000000000000
+      internalID: -7195734422812445844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_swordman_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 223
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacb315c15164f8f0800000000000000
+      internalID: -507673854159373138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_swordman_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 240
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c628d0292d8695730800000000000000
+      internalID: 3988334198616064620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_swordman_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 223
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123305f23c82e07d0800000000000000
+      internalID: -2950375887103577311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_swordman_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 223
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e905843977d0810800000000000000
+      internalID: 1733172906064649853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_swordman_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 198
+        width: 111
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3e632bcaa838d80800000000000000
+      internalID: -8249597618083666982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_swordman_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 199
+        width: 105
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6eca9f2a57147450800000000000000
+      internalID: 6085514672597552746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_swordman_7
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 193
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18f7cacfccb0dad0800000000000000
+      internalID: -2679434177639090150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_swordman_8
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 143
+        width: 188
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371cd277cc54aa410800000000000000
+      internalID: 1489079371274502515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_swordman_9
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 132
+        width: 108
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d80d2626181c5200800000000000000
+      internalID: 170037369342068946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_swordman_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 265
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5260a279fdf1681f0800000000000000
+      internalID: -1043111218515409371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_swordman_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2
+        width: 161
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4713c45641a6a70800000000000000
+      internalID: 8820885245461099728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_swordman_12
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 2
+        width: 160
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3131e96926d16d900800000000000000
+      internalID: 708786300628374291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_swordman_13
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 190
+        width: 93
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389d99eb52d5189c0800000000000000
+      internalID: -3926754983397435005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_swordman_14
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 141
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3002e5f44d32f46f0800000000000000
+      internalID: -698300022447529981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_swordman_15
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 92
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ddc053c1f6a6110800000000000000
+      internalID: 1254937613115907437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_swordman_16
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 4
+        width: 190
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b469f22c4075d73f0800000000000000
+      internalID: -901468672454846901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_swordman_17
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 2
+        width: 216
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6f7655798060200800000000000000
+      internalID: 145813484002080468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: troop_swordman_18
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 92
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baecb3d1e4aa732f0800000000000000
+      internalID: -993137940337275221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      troop_swordman_0: -7195734422812445844
+      troop_swordman_1: -507673854159373138
+      troop_swordman_10: -1043111218515409371
+      troop_swordman_11: 8820885245461099728
+      troop_swordman_12: 708786300628374291
+      troop_swordman_13: -3926754983397435005
+      troop_swordman_14: -698300022447529981
+      troop_swordman_15: 1254937613115907437
+      troop_swordman_16: -901468672454846901
+      troop_swordman_17: 145813484002080468
+      troop_swordman_18: -993137940337275221
+      troop_swordman_2: 3988334198616064620
+      troop_swordman_3: -2950375887103577311
+      troop_swordman_4: 1733172906064649853
+      troop_swordman_5: -8249597618083666982
+      troop_swordman_6: 6085514672597552746
+      troop_swordman_7: -2679434177639090150
+      troop_swordman_8: 1489079371274502515
+      troop_swordman_9: 170037369342068946
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
