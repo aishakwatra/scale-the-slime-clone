@@ -154,7 +154,6 @@ Material:
     - _MoveWithTexture: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
-    - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _Smoothness: 0.5
@@ -186,7 +185,6 @@ Material:
     - _StaticAlphaChannel: {r: 1, g: 0, b: 0, a: 0}
     - _TextureChannel: {r: 0, g: 2, b: 0, a: 0}
   m_BuildTextureStacks: []
-  m_AllowLocking: 1
 --- !u!114 &6184326343352367262
 MonoBehaviour:
   m_ObjectHideFlags: 11
