@@ -2,7 +2,18 @@ fileFormatVersion: 2
 guid: 8b43b91956f52214fadd01b930517225
 ShaderImporter:
   externalObjects: {}
-  defaultTextures: []
+  defaultTextures:
+  - _Texture: {instanceID: 0}
+  - _StaticAlphaTexture: {instanceID: 0}
+  - _DissolveMask: {instanceID: 0}
+  - _DissolveDirection: {instanceID: 0}
+  - _DistortMask: {instanceID: 0}
+  - _ColorTexture: {instanceID: 0}
+  - _GradientShape: {instanceID: 0}
+  - _GradientMap: {instanceID: 0}
+  - unity_Lightmaps: {instanceID: 0}
+  - unity_LightmapsInd: {instanceID: 0}
+  - unity_ShadowMasks: {instanceID: 0}
   nonModifiableTextures: []
   userData: 
   assetBundleName: 
