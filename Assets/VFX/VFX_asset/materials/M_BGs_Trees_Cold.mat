@@ -116,8 +116,8 @@ Material:
     - _CoreIntensity: 0
     - _CorePower: 0
     - _Cull: 0
-    - _CustomData1XAffectsStrength: 1
-    - _CustomData1YAffectsSpeed: 1
+    - _CustomData1XAffectsStrength: 0
+    - _CustomData1YAffectsSpeed: 0
     - _Cutoff: 0.5
     - _DepthFadeDivide: 1
     - _DetailAlbedoMapScale: 1
