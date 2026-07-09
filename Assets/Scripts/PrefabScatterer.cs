@@ -12,7 +12,6 @@ public class PrefabScatterer : MonoBehaviour
     public float minSpacing = 0.75f;
     public Vector2 uniformScaleRange = new Vector2(0.9f, 1.1f);
     public bool randomFlipX = true;
-    public bool randomSwayDirection = true;
     public int maxAttemptsPerInstance = 30;
 
     [HideInInspector] public List<GameObject> spawnedInstances = new List<GameObject>();

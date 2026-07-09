@@ -95,20 +95,6 @@ public class PrefabScattererEditor : Editor
                 float bottomY = spriteRenderer.bounds.min.y;
                 float correction = targetGroundPos.y - bottomY;
                 instance.transform.position += new Vector3(0f, correction, 0f);
-
-                // Sway direction comes from _VertexDisplacementAmount.x on the material (the
-                // shader adds displacement along local X only). Flip its sign per-instance via
-                // a MaterialPropertyBlock so some trees sway the opposite way without touching
-                // the shared material or needing a second material asset.
-                if (scatterer.randomSwayDirection && Random.value > 0.5f && spriteRenderer.sharedMaterial != null
-                    && spriteRenderer.sharedMaterial.HasProperty("_VertexDisplacementAmount"))
-                {
-                    Vector4 baseAmount = spriteRenderer.sharedMaterial.GetVector("_VertexDisplacementAmount");
-                    var block = new MaterialPropertyBlock();
-                    spriteRenderer.GetPropertyBlock(block);
-                    block.SetVector("_VertexDisplacementAmount", new Vector4(-baseAmount.x, baseAmount.y, baseAmount.z, baseAmount.w));
-                    spriteRenderer.SetPropertyBlock(block);
-                }
             }
 
             scatterer.spawnedInstances.Add(instance);
