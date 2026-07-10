@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5598021279334174640}
   m_Layer: 0
-  m_Name: PurpleTree_Cold_1
+  m_Name: PurpleTree_Cold_Left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -59,7 +59,7 @@ Transform:
   m_GameObject: {fileID: 2357502557485090812}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 1.93, z: 0}
   m_LocalScale: {x: 1.0623, y: 0.8075, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -115,11 +115,11 @@ SpriteRenderer:
   m_SortingOrder: 1
   m_MaskInteraction: 0
   m_Sprite: {fileID: 1262712173, guid: 2cc8ef4c666918b42a534c4951cfab6e, type: 3}
-  m_Color: {r: 0.64138496, g: 0.61960787, b: 1, a: 1}
+  m_Color: {r: 0.5019608, g: 0.57254905, b: 0.8666667, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 1
-  m_Size: {x: 3.161749, y: 5.352194}
+  m_Size: {x: 2.403769, y: 4.215351}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -150,7 +150,7 @@ Transform:
   m_GameObject: {fileID: 8806677575044171266}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -2.21, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1.0623, y: 0.8075, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -182,7 +182,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3ab584baab33dd54da64277397bb2890, type: 2}
+  - {fileID: 2100000, guid: 9fde31dcc0b35ed4cb6aae30b0b52a9f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -206,11 +206,11 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -7307361, guid: 2cc8ef4c666918b42a534c4951cfab6e, type: 3}
-  m_Color: {r: 0.5754717, g: 0.3555981, b: 0.35781953, a: 1}
+  m_Color: {r: 0.6698113, g: 0.42021182, b: 0.48360217, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 1
-  m_Size: {x: 1.2881176, y: 1.9027199}
+  m_Size: {x: 0.9793115, y: 1.498569}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
