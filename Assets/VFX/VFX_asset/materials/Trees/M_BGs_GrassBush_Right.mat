@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_BGs_Trees_Cold_Right_Fast
+  m_Name: M_BGs_GrassBush_Right
   m_Shader: {fileID: 4800000, guid: 31aa924b7b5e3164b951587850d50b37, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -114,7 +114,7 @@ Material:
     - _ClearCoatSmoothness: 0
     - _ColorRotation: 0
     - _CoreIntensity: 0
-    - _CorePower: -0.21
+    - _CorePower: 0
     - _Cull: 0
     - _CustomData1XAffectsStrength: 0
     - _CustomData1YAffectsSpeed: 0
@@ -152,7 +152,7 @@ Material:
     - _UVBasedDisplacementMaskDisplacement: -0.63
     - _UVBasedDisplacementMaskSoften: 2
     - _UVSinWaveFrequency: 1
-    - _UVSinWaveSpeed: 1.5
+    - _UVSinWaveSpeed: 4
     - _UseDepthFade: 1
     - _UseVertexNormals: 0
     - _VertexDisplacementNoiseRotation: 0
@@ -170,7 +170,7 @@ Material:
     - _TextureChannel: {r: 1, g: 0, b: 0, a: 0}
     - _UVBasedDisplacementMaskChannel: {r: 0, g: 1, b: 0, a: 0}
     - _UVSinWaveStrength: {r: 0, g: -2, b: 0, a: 0}
-    - _VertexDisplacementAmount: {r: 0.5, g: 0, b: 0, a: 0}
+    - _VertexDisplacementAmount: {r: 0.2, g: 0, b: 0, a: 0}
     - _VertexDisplacementNoiseChannel: {r: 0, g: 0, b: 0, a: 0}
     - _VertexDisplacementNoisePanSpeed: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
