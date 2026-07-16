@@ -41,5 +41,35 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BG
+    uniqueID: 1593895593
+    locked: 0
+  - name: Trees_Back
+    uniqueID: 2820670363
+    locked: 0
+  - name: Bushes_Back
+    uniqueID: 1720824129
+    locked: 0
+  - name: Fog1
+    uniqueID: 2130751235
+    locked: 0
+  - name: Trees Front
+    uniqueID: 3882706615
+    locked: 0
+  - name: Bushes_Front
+    uniqueID: 3590400547
+    locked: 0
+  - name: Grass
+    uniqueID: 357729949
+    locked: 0
+  - name: Fog2
+    uniqueID: 2838892673
+    locked: 0
+  - name: Characters
+    uniqueID: 2717103713
+    locked: 0
+  - name: Cards
+    uniqueID: 2717962511
+    locked: 0
   m_RenderingLayers:
   - Default

@@ -104,11 +104,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 1024
-        height: 1024
+        y: 768
+        width: 256
+        height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -121,11 +121,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: T_CardArts_02_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d90f71013ab6e54081b2f9ad472a9c3
+      internalID: 2064423812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8251eeeb3cb4cb943bed988d94b1bb37
     internalID: 0
     vertices: []
     indices: 
@@ -133,9 +155,26 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":256.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       T_CardArts_02_0: 4347694289478584271
+      T_CardArts_02_1: 2064423812
+      T_CardArts_02_10: -1385952372
+      T_CardArts_02_11: 1825385927
+      T_CardArts_02_12: 658239561
+      T_CardArts_02_13: -1014713394
+      T_CardArts_02_14: 17406712
+      T_CardArts_02_15: 1877786356
+      T_CardArts_02_2: -1380762559
+      T_CardArts_02_3: 728445529
+      T_CardArts_02_4: -1753653670
+      T_CardArts_02_5: 1286969068
+      T_CardArts_02_6: 872170590
+      T_CardArts_02_7: 197949535
+      T_CardArts_02_8: 1642377367
+      T_CardArts_02_9: 1622298754
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
